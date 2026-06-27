@@ -1,32 +1,21 @@
 # TaskFlow
 
-اپلیکیشن سبک و زیبای مدیریت تسک و تودو لیست
+A lightweight, fully client-side web application for personal task and todo management. Built with modern web technologies, TaskFlow works seamlessly on both Android and Windows browsers. It supports offline usage and can be installed as a Progressive Web App (PWA) on Android devices.
 
-**Developed by:** حامد فریفته (Hamed Farifteh)
+**Key Features**
 
-TaskFlow یک اپلیکیشن کاملاً سبک و قابل استفاده بر اساس وب است که هم روی اندروید و هم روی ویندوز عالی کار می‌کند. کاملاً آفلاین عمل می‌کند و می‌توان آن را به صورت PWA روی اندروید نصب کرد.
+- Add, edit, and manage tasks with priority, due dates, and descriptions
+- Powerful search and filtering (All / Active / Completed)
+- Real-time progress statistics and completion tracking
+- Dark / Light theme support
+- Fully offline with local data storage
+- Export and import data as JSON
+- Installable as PWA on Android
 
-## ویژگی‌ها
-
-- افزودن تسک با عنوان، توضیح، اولویت و تاریخ سررسید
-- جستجو و فیلتر تسک‌ها
-- تغییر وضعیت تسک (انجام شده / در حال انجام)
-- آمار سریع و درصد پیشرفت
-- تم تاریک / روشن
-- ذخیره کاملاً محلی (Offline)
-- خروجی و ورودی داده‌ها (JSON)
-- قابل نصب روی اندروید به صورت PWA
-
-## نحوه استفاده
-
-1. فایل `index.html` را در مرورگر باز کنید
-2. برای نصب روی اندروید: در مرورگر کروم بر روی "Install" کلیک کنید
-
-## سازنده
-
-**Developed by Hamed Farifteh**  
-GitHub: [@gemcancers-debug](https://github.com/gemcancers-debug)
+**Developed by Hamed Farifteh**
 
 ---
 
-این پروژه برای ساختن حضور آنلاین و آبروی شخصی ساخته شده است.
+**توضیحات فارسی:**
+
+تسک‌فلو یک اپلیکیشن سبک و کاربردی برای مدیریت تسک‌ها و کارهای روزمره است که کاملاً به صورت آفلاین کار می‌کند و روی اندروید و ویندوز به خوبی اجرا می‌شود. این پروژه با هدف ایجاد حضور حرفه‌ای آنلاین و نمایش مهارت‌های توسعه وب ساخته شده است.
